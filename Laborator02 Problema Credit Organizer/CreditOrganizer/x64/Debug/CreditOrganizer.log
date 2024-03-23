@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  CreditCardAccount.cpp
+  AssemblyInfo.cpp
+  CreditOrganizer.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  CreditCardAccount.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CreditOrganizer.vcxproj -> D:\`Ciorna\C++\New09\CreditOrganizer\x64\Debug\CreditOrganizer.exe
